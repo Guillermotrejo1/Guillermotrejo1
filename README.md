@@ -7,7 +7,7 @@ Software Developer
 Frontend-oriented software developer who came from a Medical background.
 
 * 🌍  I'm based in United States
-* ✉️  You can contact me at [maynardtrejo@yahoo.com](mailto:maynardtrejo@yahoo.com)
+* ✉️  You can contact me at [maynardtrejo2@gmail.com](mailto:maynardtrejo2@gmail.com)
 * 👥  I'm looking to collaborate on Open source
 
 <p align="left">
