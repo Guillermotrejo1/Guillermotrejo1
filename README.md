@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Frontend-oriented software developer who came from a Medical background.
+I’m a frontend developer with a mission to create applications that are both visually stunning and incredibly functional. I build scalable, efficient, and intuitive solutions that put users at the forefront of every decision.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [maynardtrejo2@gmail.com](mailto:maynardtrejo2@gmail.com)
