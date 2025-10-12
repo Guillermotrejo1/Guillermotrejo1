@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Guillermo Trejo
 ========================================================================================================================================
 
-Software Developer
+Software Engineer
 ------------------
 
 I’m a frontend developer with a mission to create applications that are both visually stunning and incredibly functional. I build scalable, efficient, and intuitive solutions that put users at the forefront of every decision.
